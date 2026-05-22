@@ -1,0 +1,15 @@
+# Ignore everything
+*
+
+# Allow specific directories
+!nvim/
+!nvim/**
+!ghostty/
+!ghostty/**
+!tmux/
+!tmux/**
+!scripts/
+!scripts/**
+
+# Allow this file
+!.gitignore
